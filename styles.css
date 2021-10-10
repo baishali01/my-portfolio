@@ -1,0 +1,14 @@
+#menu a:hover {
+  color: #26c9c1 !important;
+}
+#my-image {
+  border-radius: 50%;
+}
+#hero {
+  background-color: #26c9c1;
+  margin-top: 68px !important;
+  padding-top: 150px !important;
+}
+body {
+  font-family: 'Indie Flower', cursive;
+}
